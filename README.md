@@ -1,5 +1,5 @@
 # routerkill
-#Author: github.com/
+#Author: https://github.com/hackingconh
 Instagram ➜ @hacking.con.h
 Youtube ➜ @hacking con h
 #killrouter
