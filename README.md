@@ -1,7 +1,10 @@
 # routerkill
 #Author: https://github.com/hackingconh
+
 Instagram ➜ @hacking.con.h
+
 Youtube ➜ @hacking con h
+
 #killrouter
 *INFO: 
 ¿Qué es killrouter? Es una script echa en bash que atomatiza varias herramientas para hacer pruebas con MDK3 a un router.
