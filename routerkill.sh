@@ -233,7 +233,7 @@ airodump-ng $interface$mon
 	echo -e "$white"
 echo -e "$bssid" [$green✓$nc]
 	echo -e "$green"
-	read -p "Añade la ruta para guardar el BSSID ➜ " doc
+	read -p "Añade el nombre en txt para guardar el BSSID ➜ " doc
 echo -e "$nc"
 	echo $bssid > $doc
 echo -e "$green"
@@ -258,7 +258,7 @@ read -p "añade el BSSID victima ➜ " bssid
 	echo -e "$white"
 	echo -e "$bssid" [$green✓$nc]
 	echo -e "$green"
-read -p "Añade la ruta para guardar el BSSID ➜ " doc
+read -p "Añade el nombre en txt para guardar el BSSID ➜ " doc
 	echo -e "$nc"
 	echo $bssid > $doc
 	echo -e "$green"
