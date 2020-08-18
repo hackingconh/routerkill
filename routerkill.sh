@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: github.com/
+#Author: https://github.com/hackingconh
 #Instagram: @hacking.con.h
 #Colors
 white="\033[1;37m"
