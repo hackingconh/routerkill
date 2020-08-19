@@ -10,24 +10,24 @@ echo "	   (✗) You are not a root user, to run the install.sh you have to run i
         	exit 1
 fi
 #update
-sudo apt-get update 
+apt-get update 
 
 #git
-sudo apt-get install git
+apt-get install git
 
 #airmon-ng
-sudo apt-get install airmon-ng
+apt-get install airmon-ng
 
 #airodump-ng 
-sudo apt-get install airckrack-ng
+apt-get install airckrack-ng
 
 #mdk3
 git clone https://github.com/wi-fi-analyzer/mdk3-master
 cd mdk3-master
 make
-sudo make install
+make install
 #macchanger
-sudo apt-get install macchanger
+apt-get install macchanger
 
 echo " 
 
