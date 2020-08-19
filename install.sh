@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: github.com/
+#Author: github.com/https://github.com/hackingconh
 #Instagram: @hacking.con.h
 
 
