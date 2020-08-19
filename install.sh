@@ -28,9 +28,6 @@ make install
 #macchanger
 apt-get install macchanger
 clear
-echo -e "$green$
-echo " 
-
-
-TODO INSTALADO [$blue✓$nc] "
+echo -e "$green"
+echo " TODO INSTALADO "
 
