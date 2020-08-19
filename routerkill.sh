@@ -61,7 +61,7 @@ else
 	 echo -e "$red(AIRMONG-NG)$nc No instalado [$red✗$nc]"
 			sleep 1
 #instalación mensaje
-         echo "Instalar Bash escribiendo [sudo apt-get install airckrack-ng]"
+         echo "Instala escribiendo [sudo apt-get install airckrack-ng]"
 		sleep 0.25
 fi
 #airodump-ng
