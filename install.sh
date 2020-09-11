@@ -21,7 +21,7 @@ apt-get install git
 apt-get install aircrack-ng
 
 #mdk3
-git clone https://github.com/wi-fi-analyzer/mdk3-master
+git clone https://github.com/KILLERMANTV/mdk3-master.git
 cd mdk3-master
 make
 make install
