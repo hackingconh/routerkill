@@ -26,12 +26,10 @@ What is killrouter? It is a script made in bash that atomizes various tools to t
 					  
     Add clients to a wifi:  		Send authentication packets to all access points that are in range,
 					  Too many clients can freeze or restart some access points. 		   
-#install 
-
-git clone https://github.com/hackingconh/routerkill.git
+Como instalar
+git clone https://github.com/hackingconh/routerkill.git 
 cd killrouter
 chmod +x install.sh
 chmod +x killrouter.sh
 ./install.sh
 ./killrouter.sh
-
