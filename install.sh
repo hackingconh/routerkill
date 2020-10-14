@@ -3,6 +3,7 @@
 #Instagram: @hacking.con.h
 
 green="\033[1;32m"
+white="\033[1;37m"
 
 
 #root privilegies
